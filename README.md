@@ -14,7 +14,8 @@ Project Organization
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    ├── notebooks          1.0-steve-data-exploration
+    |                      <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's name, and a short `-` delimited description, e.g.
     │                         `1.0-alban-data-exploration`.
     │
