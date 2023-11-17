@@ -1,7 +1,8 @@
 oct23_bds_radios_pulmonaires
 ==============================
 
-This repo is a Starting Pack for DS projects. You can rearrange the structure to make it fits your project.
+Répertoire du projet Radios Pulmonaires dans le cadre du bootcamp Data Scientist d'octobre 2023 (Datascientest).
+Equipe projet : Steve Costalat, Nicolas Gorgol, Thibaut Gazagnes
 
 Project Organization
 ------------
@@ -15,6 +16,8 @@ Project Organization
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
     ├── notebooks          1.0-steve-data-exploration
+    |                      1.0 Thibaut data exploration
+    |                      2.0 Thibaut preprocessing
     |                      <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's name, and a short `-` delimited description, e.g.
     │                         `1.0-alban-data-exploration`.
